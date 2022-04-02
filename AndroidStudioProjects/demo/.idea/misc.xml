@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_demo_fragment.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/activity_demo_recycle_view.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.25391540527343753" />
+        <entry key="app/src/main/res/layout/activity_item.xml" value="0.2441214194100043" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24489522740460817" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.25116082735331363" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/constraint_layout.xml" value="0.35980976231567696" />
+        <entry key="app/src/main/res/layout/fragmenta_layout.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/fragmentb_layout.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/grid_layout.xml" value="0.28570912679036453" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.2689814814814815" />
+        <entry key="app/src/main/res/layout/login_layout.xml" value="0.2543822146216332" />
+        <entry key="app/src/main/res/layout/register_layout.xml" value="0.25116082735331363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
